@@ -20,6 +20,6 @@ const BottomNavigation: React.FC = () => {
 
 export default BottomNavigation
 
-interface IProps {
+// interface IProps {
 
-}
+// }
